@@ -1,8 +1,20 @@
 ## Bala Gangadhar Pathaneni
 
-Masters Student at Royal Holloway, Data Science.
+Masters Student at Royal Holloway, Data Science and Analytics.
 
-Looking for entry/full time graduate roles.
+Looking for entry/full time graduate roles. An adaptable and responsible graduate adept at analytics and ambitious budding professional with excellent attention to detail. Possesses driving experience in executing projects, validating techniques, gathering requirements as part of ensuring business growth and requirements. 
+Proficient in cleaning and transforming data to provide data driven recommendations and conducting statistical analysis to identify performance patterns.
+
+Education:
+
+MSc.Data Science and Analytics (Jan 2021- Dec 2021)
+Royal Holloway, University of London, UK.
+
+B.Tech Electronics and Communication Engineering (May 2014- April 2018)
+JNTU Kakinada, India.
+
+Intermediate Physics, CHemistry and Math (June 2012- April 2014)
+FIITJEE Vijayawada, India
 
 
 ## Unnecessary content
