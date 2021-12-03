@@ -2,7 +2,8 @@
 
 Masters Student at Royal Holloway, Data Science.
 
-Looking for internships/full time roles.
+Looking for entry/full time graduate roles.
+
 
 ## Unnecessary content
 You can use the [editor on GitHub](https://github.com/pathaneni42/pathaneni42.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
