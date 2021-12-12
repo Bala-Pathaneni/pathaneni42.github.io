@@ -22,9 +22,10 @@ FIITJEE Vijayawada, India.
 
 Projects:
 1. Exploratory Data Analysis on Retail Data: A window retail company is losing business due to improper performance of individual dealers. The ultimate goal of this project is to find out the underperforming window dealing companies across the Tamil Nadu state in India.
-Skills used: pandas and numpy for data analysis, matplotlib and seaborn for data visualizations.
+**Skills used**: pandas and numpy for data analysis, matplotlib and seaborn for data visualizations.
 
-
+2. Risk Prediction in Life Insurance Industry using Machine learning: Risk assessment is the crucial element in life insurance business to classify the applicants. This project enhances the risk assessment using predictive modelling.
+**Model used**: Classification modelling
 ## Unnecessary content
 You can use the [editor on GitHub](https://github.com/pathaneni42/pathaneni42.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
