@@ -9,7 +9,6 @@ Experience:
 
 Data Science Intern at Mahindra Teqo (May 2019 - Nov 2019)
 
-
 Education:
 
 MSc.Data Science and Analytics (Jan 2021- Dec 2021)
@@ -19,7 +18,11 @@ B.Tech Electronics and Communication Engineering (May 2014- April 2018)
 JNTU Kakinada, India.
 
 Intermediate Physics, CHemistry and Math (June 2012- April 2014)
-FIITJEE Vijayawada, India
+FIITJEE Vijayawada, India.
+
+Projects:
+1. Exploratory Data Analysis on Retail Data: A window retail company is losing business due to improper performance of individual dealers. The ultimate goal of this project is to find out the underperforming window dealing companies across the Tamil Nadu state in India.
+Skills used: pandas and numpy for data analysis, matplotlib and seaborn for data visualizations.
 
 
 ## Unnecessary content
