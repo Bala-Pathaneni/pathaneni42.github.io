@@ -2,14 +2,13 @@
 
 Masters Student at Royal Holloway, Data Science and Analytics.
 
-Looking for entry/full time graduate roles. An adaptable and responsible graduate adept at analytics and ambitious budding professional with excellent attention to detail. Possesses driving experience in executing projects, validating techniques, gathering requirements as part of ensuring business growth and requirements. 
-Proficient in cleaning and transforming data to provide data driven recommendations and conducting statistical analysis to identify performance patterns.
+An adaptable and responsible graduate adept at analytics and Looking for entry/full time graduate roles with excellent attention to detail. Possesses driving experience in executing projects, validating techniques, gathering requirements as part of ensuring business growth and requirements. Proficient in cleaning and transforming data to provide data driven recommendations and conducting statistical analysis to identify performance patterns.
 
-Experience:
+**Experience:**
 
 Data Science Intern at Mahindra Teqo (May 2019 - Nov 2019)
 
-Education:
+**Education:**
 
 MSc.Data Science and Analytics (Jan 2021- Dec 2021)
 Royal Holloway, University of London, UK.
@@ -26,6 +25,9 @@ Projects:
 
 2. Risk Prediction in Life Insurance Industry using Machine learning: Risk assessment is the crucial element in life insurance business to classify the applicants. This project enhances the risk assessment using predictive modelling.
 **Model used**: Classification modelling
+
+
+
 ## Unnecessary content
 You can use the [editor on GitHub](https://github.com/pathaneni42/pathaneni42.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
