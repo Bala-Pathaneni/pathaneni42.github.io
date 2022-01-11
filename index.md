@@ -10,13 +10,13 @@ Data Science Intern at Mahindra Teqo (May 2019 - Nov 2019)
 
 **Education:**
 
-MSc.Data Science and Analytics (Jan 2021- Dec 2021)
+* MSc.Data Science and Analytics (Jan 2021- Dec 2021)
 Royal Holloway, University of London, UK.
 
-B.Tech Electronics and Communication Engineering (May 2014- April 2018)
+* B.Tech Electronics and Communication Engineering (May 2014- April 2018)
 JNTU Kakinada, India.
 
-Intermediate Physics, CHemistry and Math (June 2012- April 2014)
+* Intermediate Physics, CHemistry and Math (June 2012- April 2014)
 FIITJEE Vijayawada, India.
 
 Projects:
