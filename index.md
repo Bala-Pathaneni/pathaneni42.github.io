@@ -4,9 +4,17 @@ Masters Student at Royal Holloway, Data Science and Analytics.
 
 An adaptable and responsible graduate adept at analytics and Looking for entry/full time graduate roles with excellent attention to detail. Possesses driving experience in executing projects, validating techniques, gathering requirements as part of ensuring business growth and requirements. Proficient in cleaning and transforming data to provide data driven recommendations and conducting statistical analysis to identify performance patterns.
 
+**Skills:**
+
+•	Programming skills: Python and SQL
+•	Azure: Data Factory, Data Bricks, Synapse Analytics, Data Lake Services, SQL Server, Logic Apps, KeyVault Services, Cosmos DB.
+•	Visulization tool: Power BI
+•	Data Science: Linear Regression, Logistics Regression, Regularization techniques, Gradient Discent, Random Forest, Bagging, Boosting, Naïve Bayes Classifier, Inferential Statistics. Libraries included pandas, numpy, scipy, scikit-learn and tensor flow.
+
 **Experience:**
 
-Data Science Intern at Mahindra Teqo (May 2019 - Nov 2019)
+Data Science Intern at Mahindra Teqo (May,2019 - Nov,2019)
+Data Analyst Intern at Levadata (Aug,2019 -  Sept,2019)
 
 **Education:**
 
@@ -19,12 +27,17 @@ JNTU Kakinada, India.
 * Intermediate Physics, CHemistry and Math (June 2012- April 2014)
 FIITJEE Vijayawada, India.
 
-Projects:
+**Projects:**
 1. Exploratory Data Analysis on Retail Data: A window retail company is losing business due to improper performance of individual dealers. The ultimate goal of this project is to find out the underperforming window dealing companies across the Tamil Nadu state in India.
 **Skills used**: pandas and numpy for data analysis, matplotlib and seaborn for data visualizations.
 
 2. Risk Prediction in Life Insurance Industry using Machine learning: Risk assessment is the crucial element in life insurance business to classify the applicants. This project enhances the risk assessment using predictive modelling.
 **Model used**: Classification modelling
+
+**Certifications:**
+•	Excel skills for Business: Essentials from Macquaire University Coursera.
+
+
 
 
 
